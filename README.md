@@ -1,4 +1,4 @@
-## I have used Templates for HTML and CSS part. I have just used javascript to make to App work. Peace ✌️	
+## I have used Templates for HTML and CSS part. I have just used React to make to App work. Peace ✌️	
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
